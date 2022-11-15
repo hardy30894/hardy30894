@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hardy30894
+- 👋 Hi, I’m Harsh Dubey, Currently@NYU Courant
 - 👀 I’m interested in Machine Learning and Large Scale Data Infrastructure
 - 🌱 I’m currently learning SOTA ML & DL Technqiues
 - 💞️ I’m looking to collaborate on ML, DL, MLOPS, Data Infra Projects
